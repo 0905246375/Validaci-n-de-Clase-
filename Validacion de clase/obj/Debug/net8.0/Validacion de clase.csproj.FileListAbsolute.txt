@@ -1,0 +1,14 @@
+C:\Users\tahly\Desktop\Validacion de clase\bin\Debug\net8.0\Validacion de clase.exe
+C:\Users\tahly\Desktop\Validacion de clase\bin\Debug\net8.0\Validacion de clase.deps.json
+C:\Users\tahly\Desktop\Validacion de clase\bin\Debug\net8.0\Validacion de clase.runtimeconfig.json
+C:\Users\tahly\Desktop\Validacion de clase\bin\Debug\net8.0\Validacion de clase.dll
+C:\Users\tahly\Desktop\Validacion de clase\bin\Debug\net8.0\Validacion de clase.pdb
+C:\Users\tahly\Desktop\Validacion de clase\obj\Debug\net8.0\Validacion de clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahly\Desktop\Validacion de clase\obj\Debug\net8.0\Validacion de clase.AssemblyInfoInputs.cache
+C:\Users\tahly\Desktop\Validacion de clase\obj\Debug\net8.0\Validacion de clase.AssemblyInfo.cs
+C:\Users\tahly\Desktop\Validacion de clase\obj\Debug\net8.0\Validacion de clase.csproj.CoreCompileInputs.cache
+C:\Users\tahly\Desktop\Validacion de clase\obj\Debug\net8.0\Validacion de clase.dll
+C:\Users\tahly\Desktop\Validacion de clase\obj\Debug\net8.0\refint\Validacion de clase.dll
+C:\Users\tahly\Desktop\Validacion de clase\obj\Debug\net8.0\Validacion de clase.pdb
+C:\Users\tahly\Desktop\Validacion de clase\obj\Debug\net8.0\Validacion de clase.genruntimeconfig.cache
+C:\Users\tahly\Desktop\Validacion de clase\obj\Debug\net8.0\ref\Validacion de clase.dll
